@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Система
-      external_url: http://10.130.5.126:8090
+      external_url: http://msrhousing.permkrai.ru
     - title: Новости 
       url: /news
 
