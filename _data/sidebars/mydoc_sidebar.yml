@@ -1,0 +1,31 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  #product: Руководство пользователя
+  folders:
+
+  - title: Дети-сироты
+    output: web, pdf
+    folderitems:
+
+      # - title: Обеспечение жильем детей-сирот
+      #   output: web, pdf
+      #   type: homepage
+      #   subfolders:
+
+        # - title: Обеспечение жильем детей-сирот
+        #   url: /mydoc_introduction.html
+        #   output: web, pdf
+        #   subfolderitems:
+
+    - title: Списки детей-сирот
+      url: /orphans_lists.html 
+      output: web, pdf
+      
+    - title: Заявления на получение жилья
+      url: /orphans_declarations.html
+      output: web, pdf
+
+
+  
